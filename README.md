@@ -6,7 +6,7 @@ Características principales:
 <ul>
   <li>Explora destinos: Descubre destinos fascinantes alrededor del mundo con información detallada sobre su cultura, historia, atracciones y actividades.</li>
   <li>Planifica tu viaje: Crea itinerarios personalizados, reserva alojamiento, encuentra vuelos y más, todo en un solo lugar.</li>
-  <li>TConéctate con la comunidad: Comparte tus experiencias, intercambia consejos con otros viajeros y participa en foros para encontrar inspiración.</li>
+  <li>Conéctate con la comunidad: Comparte tus experiencias, intercambia consejos con otros viajeros y participa en foros para encontrar inspiración.</li>
   <li>Encuentra inspiración: Descubre artículos, blogs y fotos que te inspirarán a planificar tu próximo viaje.</li>
 </ul>
 
