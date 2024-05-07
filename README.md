@@ -1,5 +1,5 @@
 # ¡Esencia: Tu puerta de entrada a un viaje turístico inolvidable!
-## Descipción 
+## Descripción 
 <p>Esencia es un sitio web de desarrollo turístico diseñado para ser tu guía integral para descubrir experiencias únicas y memorables. Nuestro objetivo es conectar a los viajeros con la esencia de cada destino, brindándoles información completa, herramientas útiles y una comunidad apasionada por los viajes.</p>
 
 Características principales:
