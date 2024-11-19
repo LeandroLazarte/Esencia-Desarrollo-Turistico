@@ -30,6 +30,8 @@ export function Footer (){
         $a = dcE('a');
         $img = dcE('img');
         $span = dcE('span');
+
+        $a.href = '#';
         $img.src = social_network.img;
         $img.alt = social_network.name;
         $span.textContent = social_network.name;
