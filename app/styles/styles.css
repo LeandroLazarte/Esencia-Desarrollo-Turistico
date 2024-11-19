@@ -218,6 +218,7 @@ height: 100vh;
    align-items: center;
    margin: 0.2rem 0;
    font-size: 14px;
+   cursor: pointer;
 }
 
 .socil_networks a span{
